@@ -7,5 +7,8 @@ class ayan{
     val a =10;
     var isTrue = true;
 
+    fun getData(){
+        println("Hello World");
+    }
 
 }
