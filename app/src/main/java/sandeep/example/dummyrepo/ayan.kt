@@ -5,6 +5,7 @@ class ayan{
 
     }
     val a =10;
+    var isTrue = true;
 
 
 }
