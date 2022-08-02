@@ -4,5 +4,7 @@ class ayan{
     fun ayan(){
 
     }
+    val a =10;
+
 
 }
