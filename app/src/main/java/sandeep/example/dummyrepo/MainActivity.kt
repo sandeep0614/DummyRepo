@@ -18,6 +18,7 @@ class MainActivity : AppCompatActivity() {
         Log.d(TAG,"c=$c")
         val btn=findViewById<Button>(R.id.button)
         btn.setOnClickListener{
+            val e=2
             Toast.makeText(this,"This is a toast message",Toast.LENGTH_SHORT).show()
         }
     }
